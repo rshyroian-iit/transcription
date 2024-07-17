@@ -42,7 +42,7 @@ def main(transcript_file):
     if summary:
         output_file = "transcript_summary.md"
         with open(output_file, "w") as outfile:
-            outfile.write(summary)
+            outfile.write(str(summary))
         print(f"Summary created and saved as '{output_file}'")
     else:
         print("Failed to create summary.")
