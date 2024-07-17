@@ -14,8 +14,8 @@ This repository contains Python scripts and bash scripts to transcribe any audio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/transcribe-and-summarize.git
-cd transcribe-and-summarize
+git clone https://github.com/rshyroian-iit/transcription.git
+cd transcription
 ```
 
 ### 2. Create and activate a virtual environment (optional but recommended)
